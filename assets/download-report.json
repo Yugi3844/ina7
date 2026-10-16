@@ -1,0 +1,2889 @@
+{
+  "total_source_urls": 2141,
+  "local_files_present": 1565,
+  "already_cached": 0,
+  "unresolved_count": 576,
+  "game_source_urls_replaced": 1565,
+  "unresolved": [
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/10/Karakuri_Bingmayong_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/1b9284937c40808388f9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/50/Shinsei_Inazuma_Japan_emblem.png/revision/latest",
+      "asset": "assets/badges/1f219fb43b29b659474f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d4/El_Dorado_Team_02_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/3db7dc3c4a4bd8baace0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3e/Shiroshika_Gumi_emblem.png/revision/latest",
+      "asset": "assets/badges/455cd17b1b6419330d4b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6f/El_Dorado_Team_03_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/57a74082f850e1d04bde.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f0/Inazuma_Legend_Japan_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/5dc0c3ebbdb1d23be28c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f0/El_Dorado_Team_01_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/81ed2c52a3128d5705e1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f4/Soccer_Robots_emblem.png/revision/latest",
+      "asset": "assets/badges/8820f52cc806d4d04628.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/41/Garu_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/8ba06f639d7e908ef5cf.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7f/Zan_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/c1b33481845088c5058b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/20/Entaku_no_Kishidan_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/d55b1d0d1985f586ffb6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/23/Giru_emblem_(VR).png/revision/latest",
+      "asset": "assets/badges/d70aa96fe492a5f2b5c1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b1/Second_Raimon_emblem_(S).png/revision/latest",
+      "asset": "assets/badges/ddb0f44a80026b4ace8a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Enimo%20sprite.png",
+      "asset": "assets/players/00321fc62abfc01df1eb.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a1/(G)_Enimo_sprite.png/revision/latest",
+      "asset": "assets/players/006b14eec857e1112610.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/42/(IJ)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/00d469faf4d580d2ba77.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/62/(IJ)_Matsuno_Kuusuke_sprite.png/revision/latest",
+      "asset": "assets/players/00e1103919cb4faae69c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5a/(SU)_Eddie_Howard_sprite.png/revision/latest",
+      "asset": "assets/players/00e2e5f182a8c566ec73.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7d/(IJ)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/019a3aad822144663dd7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Kidou%20Yuuto%20sprite.png",
+      "asset": "assets/players/01d48cee64b7d6615d7e.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Fei%20Rune%20sprite.png",
+      "asset": "assets/players/020eba9a8969315111c1.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7e/(PO)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/025d626b389e80f9254d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9e/(PO)_Deleine_sprite.png/revision/latest",
+      "asset": "assets/players/02fc6da40e9f4fcdb7e2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c4/(IJ)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/034f0661a26f5b6e7eb4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7e/(PO)_Zat_sprite.png/revision/latest",
+      "asset": "assets/players/038978dbf1a0513a01be.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/07/(TR)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/038b6a75d574e89fcd98.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/72/(Z)_Molly_sprite.png/revision/latest",
+      "asset": "assets/players/03f45be49eb796d90e69.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4a/(PO)_Zotan_sprite.png/revision/latest",
+      "asset": "assets/players/04278446cc9d9521f6d4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a2/(IJ)_Deos_sprite.png/revision/latest",
+      "asset": "assets/players/04c066fd317f22494590.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Rodeo%20sprite.png",
+      "asset": "assets/players/053c3d022014b95da173.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/29/(PO)_Chel_sprite.png/revision/latest",
+      "asset": "assets/players/05a4fefb2b93f09d13c0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b7/(IJ)_Clutch_sprite.png/revision/latest",
+      "asset": "assets/players/05f4229a2ffe45ad8e04.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9b/(IJ)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/0641c5f673b8d132379e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/49/(IJ)_Mista_sprite.png/revision/latest",
+      "asset": "assets/players/0789f0ce3ba28627df40.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/eb/(TR)_Chel_sprite.png/revision/latest",
+      "asset": "assets/players/07b4f4a04bf878adcb81.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Yamino%20Kageto%20sprite.png",
+      "asset": "assets/players/07c20bc39b8b0a5d3ab2.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6c/(TR)_Mabi_sprite.png/revision/latest",
+      "asset": "assets/players/07cea566c0919f0e3eeb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b5/(G)_Mabi_sprite.png/revision/latest",
+      "asset": "assets/players/0813c9e936c679da2406.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d0/(SU)_Dylan_Keith_sprite.png/revision/latest",
+      "asset": "assets/players/0a188cf0a73bb6b3a928.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Kirino%20Ranmaru%20sprite.png",
+      "asset": "assets/players/0a4c9cfd8ca57d7f8d9a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Galling_sprite.png",
+      "asset": "assets/players/0a971aaaf5a3578e9cbd.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/05/(G)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/0ab9fb5629d31302e262.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b0/(PO)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/0b68cb7dac093a75f80c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/bf/(TG_(A))_Banjou_Kazumichi_sprite.png/revision/latest",
+      "asset": "assets/players/0beda5474c092aef0933.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/74/(Z)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/0bf3645d3156b3047803.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Tobitaka%20Seiya%20sprite.png",
+      "asset": "assets/players/0cc1656d9ff48ac80f0d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Sakuma%20Jirou%20sprite.png",
+      "asset": "assets/players/0deda44ac77096ee12fd.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/28/(IJ-A)_Kogure_Yuuya_sprite.png/revision/latest",
+      "asset": "assets/players/0df61b1aa26385d4324a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/98/(TR)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/0f2e408fc18f8bb8ae87.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5d/(Z)_Clutch_sprite.png/revision/latest",
+      "asset": "assets/players/0f341e4510a256c016c0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Kazemaru%20Ichirouta%20sprite.png",
+      "asset": "assets/players/0f626d6d8d6ae2a10e2b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/83/(G)_Clutch_sprite.png/revision/latest",
+      "asset": "assets/players/0f7086d316e20f8cae88.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/66/(G)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/0fb91821f65d9d694da2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3b/(SR)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/1057b9998aaef1108ddd.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6b/(SIJ)_Nishiki_Ryouma_sprite.png/revision/latest",
+      "asset": "assets/players/10853756301154320415.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2c/(PO)_Haze_sprite.png/revision/latest",
+      "asset": "assets/players/112d20e49cc9b4f17aeb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/61/(IJ)_Mabi_sprite.png/revision/latest",
+      "asset": "assets/players/11501af025b49eec9c42.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f8/(TR)_Molly_sprite.png/revision/latest",
+      "asset": "assets/players/120e872e9037787eea22.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/24/(TR)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/1264d120252dd639fafd.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/(SR)_Molly_sprite.png/revision/latest",
+      "asset": "assets/players/128e6b9e0a83439eacf4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Hijikata%20Raiden%20sprite.png",
+      "asset": "assets/players/1290f9cf85e3eeb2e163.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/02/(SR)_Zat_sprite.png/revision/latest",
+      "asset": "assets/players/12a7682c38a25cdf4e21.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e2/(Z)_Gigam_sprite.png/revision/latest",
+      "asset": "assets/players/12b6d5abb3a23264161a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/cd/(G)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/12f72c7215db6a87c00a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/43/(MS_(A))_Hiroyama_Yuu_sprite.png/revision/latest",
+      "asset": "assets/players/13f05fc6e9467ddf8f8f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fd/(IJ-A)_Yamino_Kageto_sprite.png/revision/latest",
+      "asset": "assets/players/13fd6adb117209fd5edb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Boofuu%20sprite.png",
+      "asset": "assets/players/142d31ade3f1b6fb7a48.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7f/(MS_(A))_Fujimaru_Kei_sprite.png/revision/latest",
+      "asset": "assets/players/14395c2e4e43143c5b0d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Narukami%20Kenya%20sprite.png",
+      "asset": "assets/players/1447df118a35cf8ade14.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Tony%20Stridas%20sprite.png",
+      "asset": "assets/players/146a47fb1d49eb3a52df.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/43/(TR)_Stia_sprite.png/revision/latest",
+      "asset": "assets/players/153128f7f6c81df76cba.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6a/(IE)_Sugata_Iwao_sprite.png/revision/latest",
+      "asset": "assets/players/16d566602e7983e9e782.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/94/(SU)_Tony_Stridas_sprite.png/revision/latest",
+      "asset": "assets/players/17beff8ab3385a70ba33.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e5/(SR)_Enimo_sprite.png/revision/latest",
+      "asset": "assets/players/1828cf908b83a7551bda.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f8/(PO)_Mabi_sprite.png/revision/latest",
+      "asset": "assets/players/192a151aa712fc509df7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b1/(SG)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/19aa45d7a1dde71b31f1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Dhanna_sprite.png",
+      "asset": "assets/players/19aff8aab2e2d589ad71.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/04/(SR)_Muddle_sprite.png/revision/latest",
+      "asset": "assets/players/19e931b90bf85fb2268c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Oshiya%20Manbe%20sprite.png",
+      "asset": "assets/players/1a1ccb6cbf359a3e1d38.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Matsukaze%20Tenma%20sprite.png",
+      "asset": "assets/players/1a71c946024b5d5a6d8b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1a/(IE)_Ukishima_Kazuto_sprite.png/revision/latest",
+      "asset": "assets/players/1aba766fd730ef8ef940.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2d/(SU)_Ichinose_Kazuya_sprite.png/revision/latest",
+      "asset": "assets/players/1ae59f39825348f9a98f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Fudou%20Akio%20sprite.png",
+      "asset": "assets/players/1aee5cde51f5944694a4.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/99/(SR)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/1b075a11778dd267e814.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/88/(IJ)_Tobitaka_Seiya_sprite.png/revision/latest",
+      "asset": "assets/players/1b0978ed3feedf57f3a7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e5/(IJ)_Sync_sprite.png/revision/latest",
+      "asset": "assets/players/1b1576feb1516a66edce.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f6/(SR)_Clutch_sprite.png/revision/latest",
+      "asset": "assets/players/1b452c85f6184d2bc300.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/97/(G)_Zat_sprite.png/revision/latest",
+      "asset": "assets/players/1b80d3d47b3000a6b6b2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c5/(G)_Narje_sprite.png/revision/latest",
+      "asset": "assets/players/1c6ca1e15a16cf59df7d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c1/(SR)_Kageyama_Hikaru_sprite.png/revision/latest",
+      "asset": "assets/players/1d720869344f198d0c7e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/04/(G)_Jips_sprite.png/revision/latest",
+      "asset": "assets/players/1db32fba3f05b2f7963d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1f/(PO)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/1df2acda9311d3ad21b8.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/50/(TG_(A))_Henmi_Wataru_sprite.png/revision/latest",
+      "asset": "assets/players/1e0d93f2771cc1445020.webp",
+      "reason": "HTTP 503"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Ichino_Nanasuke_sprite.png",
+      "asset": "assets/players/1e1be4e97da85dccce35.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/49/(SU)_Steve_Woodmack_sprite.png/revision/latest",
+      "asset": "assets/players/1f687be6a82f03fcf1d6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/38/(G)_Veneto_sprite.png/revision/latest",
+      "asset": "assets/players/2048037351935479408f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5f/(IJ)_Kabeyama_Heigorou_sprite.png/revision/latest",
+      "asset": "assets/players/20a69529ad5ed83019a3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8f/(SG)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/20ef32d257676ffda540.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Eddie%20Howard%20sprite.png",
+      "asset": "assets/players/20fdbd6c7ff33d38a3f8.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b5/(SR)_Zotan_sprite.png/revision/latest",
+      "asset": "assets/players/21373318391700dc387a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/68/(G)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/21ed756447b928ace727.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5b/(IJ)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/22000a3b4d4305d82268.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Gigam%20sprite.png",
+      "asset": "assets/players/2216e4ad28a488beb820.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Yazu%20Tenkei%20sprite.png",
+      "asset": "assets/players/22515c5cfa16818a8075.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4d/(SR)_Boofuu_sprite.png/revision/latest",
+      "asset": "assets/players/225e5ca42fbe07d5b1ef.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e7/(SR)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/22ad2cc6925d8775d2ae.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/62/(IJ)_Zake_sprite.png/revision/latest",
+      "asset": "assets/players/23da1f7711c0fabe5c61.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Batora%20Manabu%20sprite.png",
+      "asset": "assets/players/245d7263094432edb53a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c8/(H_(A))_Someoka_Ryuugo_sprite.png/revision/latest",
+      "asset": "assets/players/2481e2c4bafb30532c08.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/79/(SG)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/24ce22c4ee5cca8405ba.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d3/(SR)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/251ca03f31d12afe29db.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Kurumada_Gouichi_sprite.png",
+      "asset": "assets/players/2589178344833d8acf28.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/15/(G)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/261231a220ee07bc915f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/eb/(KG)_Fujita_Sumitomo_sprite.png/revision/latest",
+      "asset": "assets/players/26db34c16d69bcfd0d36.webp",
+      "reason": "HTTP 503"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3d/(H_(A))_Hakoda_Tetsu_sprite.png/revision/latest",
+      "asset": "assets/players/278e4495e3e839f12a7e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e3/(PO)_Mido_sprite.png/revision/latest",
+      "asset": "assets/players/27b484d5d7658d528a23.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d8/(MS_(A))_Hanaoka_Tsuyoshi_sprite.png/revision/latest",
+      "asset": "assets/players/27e34d981f9bd218d0fe.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3e/(Z)_Deos_sprite.png/revision/latest",
+      "asset": "assets/players/2889c6ac57e9e56e36d2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Narje%20sprite.png",
+      "asset": "assets/players/295f710b3be7ae8cb4f3.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/41/(PO)_Clutch_sprite.png/revision/latest",
+      "asset": "assets/players/29e1ecb83fc6d23a568c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6b/(G)_Mista_sprite.png/revision/latest",
+      "asset": "assets/players/2a0cd80c52bf2abcdc9e.webp",
+      "reason": "HTTP 503"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/84/(SR)_Fadam_sprite.png/revision/latest",
+      "asset": "assets/players/2a6a0acfd40f15831bf4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/40/(IE)_Kamimura_Kirito_sprite.png/revision/latest",
+      "asset": "assets/players/2a891135b470412dd703.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f1/(SIJ)_Amemiya_Taiyou_sprite.png/revision/latest",
+      "asset": "assets/players/2af021fb0ea9b14a31ec.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/51/(IJ_(O))_Inamori_Asuto_sprite.png/revision/latest",
+      "asset": "assets/players/2b57f1f6dc1b669cdb69.webp",
+      "reason": "HTTP 503"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8d/(Z)_Zake_sprite.png/revision/latest",
+      "asset": "assets/players/2b6b455469168248a951.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0a/(TR)_Rodeo_sprite.png/revision/latest",
+      "asset": "assets/players/2b9908dc1bfcf38ba090.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/69/(H_(A))_Yukino_Seiya_sprite.png/revision/latest",
+      "asset": "assets/players/2c30923894ed988062aa.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/51/(G)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/2c6220caeafe90aa13ae.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/94/(KS_(GO))_Konuma_Waku_sprite.png/revision/latest",
+      "asset": "assets/players/2ccff7b4d5009e378a21.webp",
+      "reason": "HTTP 503"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/77/(TR)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/2ce23ddd45761d46e292.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/33/(SG)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/2d860b18afc8ac7eba1d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Clutch%20sprite.png",
+      "asset": "assets/players/2d881eec5cf44a8584b5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Kunikida%20Haito%20sprite.png",
+      "asset": "assets/players/2e2ac9f74764f7a607ad.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/30/(H_(A))_Matoro_Juka_sprite.png/revision/latest",
+      "asset": "assets/players/2e8769e37d1c104d7c21.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6d/(IJ-A)_Tachimukai_Yuuki_sprite.png/revision/latest",
+      "asset": "assets/players/2f690e42cdf62c60da72.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8d/(Z)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/2f8ba9e48b2efec157ec.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0f/(SR)_Rude_sprite.png/revision/latest",
+      "asset": "assets/players/30c2532e0f527374c762.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d7/(G)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/31697d51f9c0a90e8316.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/aa/(PO)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/31ce7afbb70d493a90be.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f3/(SIJ)_Nanobana_Kinako_sprite.png/revision/latest",
+      "asset": "assets/players/31fd93c2106c9d413e39.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Yamagishi%20Seri%20sprite.png",
+      "asset": "assets/players/329e3a271428f1712e5f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b3/(IJ)_Someoka_Ryuugo_sprite.png/revision/latest",
+      "asset": "assets/players/34175a234a1c1ffc78ba.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/55/(PO)_Sync_sprite.png/revision/latest",
+      "asset": "assets/players/35e59475d7d6c02244a8.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/29/(ILJ)_Sakuma_Jirou_sprite.png/revision/latest",
+      "asset": "assets/players/360e0ac782ed2623c86e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/42/(PO)_Garo_sprite.png/revision/latest",
+      "asset": "assets/players/361335da8d4f4075bcf3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Kariya%20Masaki%20sprite.png",
+      "asset": "assets/players/36cd3cbd8ab68d4b145f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/25/(PO)_Mista_sprite.png/revision/latest",
+      "asset": "assets/players/36d1d301f13168d93092.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Yukimura%20Hyouga%20sprite.png",
+      "asset": "assets/players/37e0b0bbdbe28eeb7eb5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Kazemaru%20Ichirouta%20sprite.png",
+      "asset": "assets/players/38cac0b34c91d2d0ad0b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f5/(G)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/395e5096f51c6f271496.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/93/(PO)_Rodeo_sprite.png/revision/latest",
+      "asset": "assets/players/3aeac9778fd3e07e9985.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/ad/(G)_Molly_sprite.png/revision/latest",
+      "asset": "assets/players/3b8d00648c7951198b0e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e9/(Z)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/3bcc485f6183bd574485.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/ec/(IJ)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/3c8292eeb3229f9a930c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/01/(SR)_Nishiki_Ryouma_sprite.png/revision/latest",
+      "asset": "assets/players/3c92056f1d5209c1d774.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Amemiya%20Taiyou%20sprite.png",
+      "asset": "assets/players/3d33c6b47d0403902fe8.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/32/(SG)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/3d5dc65a6590c523bc6e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/30/(Z)_Mista_sprite.png/revision/latest",
+      "asset": "assets/players/3da102c343c307fcf007.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Someoka%20Ryuugo%20sprite.png",
+      "asset": "assets/players/3dd58ae5e37da6952f90.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Zatan%20sprite.png",
+      "asset": "assets/players/3de3748eef997f9f66c0.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d1/(SR)_Tsurugi_Kyousuke_sprite.png/revision/latest",
+      "asset": "assets/players/3e14372d0ff933f83ed6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/66/(Z)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/3e4bf5723373a0dfbb45.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4b/(TR)_Jips_sprite.png/revision/latest",
+      "asset": "assets/players/3f1d00a06ce5780004af.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/59/(G)_Gigam_sprite.png/revision/latest",
+      "asset": "assets/players/3f3bac0bfe62eb6027fe.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2e/(PO)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/3fef6459502e5a781383.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fa/(IJ-A)_Kurimatsu_Teppei_sprite.png/revision/latest",
+      "asset": "assets/players/40a26360bdce14d9c2f7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0d/(IJ)_Fadam_sprite.png/revision/latest",
+      "asset": "assets/players/4115edc8d00223ef2c11.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f7/(IJ)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/413c0a5a9690b7f457da.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d8/(IE)_Ikari_Gengorou_sprite.png/revision/latest",
+      "asset": "assets/players/4173b550999e57a57557.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d4/(SU)_Mark_Krueger_sprite.png/revision/latest",
+      "asset": "assets/players/41ea85e984f824a373b2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/31/(SIJ)_Tsurugi_Kyousuke_sprite.png/revision/latest",
+      "asset": "assets/players/4258b864aab29cac5c4b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b5/(G)_Chel_sprite.png/revision/latest",
+      "asset": "assets/players/428c4bdfdc7ccb328a05.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f0/(TR)_Mista_sprite.png/revision/latest",
+      "asset": "assets/players/42e06d15bc61fed4dd22.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d2/(Z)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/42ea7008aba84d9e57fd.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c8/(TR)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/43015180b520a8830370.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Maebayashi%20Kourin%20sprite.png",
+      "asset": "assets/players/447f9cea1c939a82f2b1.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Tsurugi_Kyousuke_sprite.png",
+      "asset": "assets/players/44b5a04bfdb85d3c100c.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/80/(PO)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/44d3c728946fe69e611d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3f/(IJ)_Jips_sprite.png/revision/latest",
+      "asset": "assets/players/45d2365b400eefb5e830.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8f/(TG_(A))_Jimon_Daiki_sprite.png/revision/latest",
+      "asset": "assets/players/463593b178c27cf9161b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c9/(SG)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/4682ace0edeef2943bb0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7a/(PO)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/471d979bf4d7c67d806f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/64/(ILJ)_Kira_Hiroto_sprite.png/revision/latest",
+      "asset": "assets/players/471daae4eddc714b35bc.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Inaba%20Taian%20sprite.png",
+      "asset": "assets/players/478eadbd482a3b2e9133.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Ujiki%20Mikimaru%20sprite.png",
+      "asset": "assets/players/47a63f046c80992baca0.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/54/(IJ)_Chel_sprite.png/revision/latest",
+      "asset": "assets/players/4810bfe371e8e11c5ede.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Kamimura%20Kirito%20sprite.png",
+      "asset": "assets/players/481a1b3fc205c5de2be5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e8/(SR)_Garo_sprite.png/revision/latest",
+      "asset": "assets/players/482d9d140498a2c4dfe3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6b/(IE)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/48b762a12484205a6ab0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a4/(G)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/48cff913f819f6c742a1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/31/(Z)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/4929870455a2a7ba644a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f0/(IJ)_Muddle_sprite.png/revision/latest",
+      "asset": "assets/players/4934936a46d3a2380c5c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a7/(SIJ)_Fei_Rune_sprite.png/revision/latest",
+      "asset": "assets/players/499983568717b599fd05.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Amagi_Daichi_sprite.png",
+      "asset": "assets/players/4a076527ab442d0bae54.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/70/(Z)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/4be8de80642437da3ec2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7f/(H_(A))_Mabuka_Souji_sprite.png/revision/latest",
+      "asset": "assets/players/4d2c4313e62d04c80ea3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/39/(IJ)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/4d574a80de8e83069d08.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Sync%20sprite.png",
+      "asset": "assets/players/4d71ed5eee62feb0c144.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Dylan%20Keith%20sprite.png",
+      "asset": "assets/players/4db8daf9f0efd8127109.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Doumen%20Shuuichirou%20sprite.png",
+      "asset": "assets/players/4dd8500a5aae6211f31b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/ca/(TR)_Sync_sprite.png/revision/latest",
+      "asset": "assets/players/4e5fcefa0e374b39ebb1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a7/(SR)_Veneto_sprite.png/revision/latest",
+      "asset": "assets/players/4eabf16a8b2a7657b6ed.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7a/(PO)_Molly_sprite.png/revision/latest",
+      "asset": "assets/players/4f402002e70313a9964d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Muddle%20sprite.png",
+      "asset": "assets/players/4fda63b7cfa430c40657.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/28/(PO)_Narje_sprite.png/revision/latest",
+      "asset": "assets/players/501c0fc791b4183ac169.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e2/(SR)_Doris_sprite.png/revision/latest",
+      "asset": "assets/players/504a514dc73bec5dcbcf.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Gojou%20Masaru%20sprite.png",
+      "asset": "assets/players/50d6113022a3eecaa418.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/43/(G)_Sync_sprite.png/revision/latest",
+      "asset": "assets/players/50ddb0e74f72f7334f04.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Kurama%20Norihito%20sprite.png",
+      "asset": "assets/players/50e2b420dabadd44963b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e2/(G)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/5104ea9252ca6ac2b749.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a7/(SR)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/538687daadce3c2f21d1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/69/(SR)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/545c8f5869c4db6855a3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/12/(TR)_Zatan_sprite.png/revision/latest",
+      "asset": "assets/players/556e25c62fa9d02f719b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a2/(IJ)_Zatan_sprite.png/revision/latest",
+      "asset": "assets/players/5700dde90bb29dd7367e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d0/(IJ)_Torm_sprite.png/revision/latest",
+      "asset": "assets/players/57acdec70fa7d99ff9a1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a6/(Z)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/57b87f1c09d53ded7ed0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Ikari%20Gengorou%20sprite.png",
+      "asset": "assets/players/5838098de69e963be642.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Veneto%20sprite.png",
+      "asset": "assets/players/5866f66ac710f39aa561.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e7/(IJ)_Deleine_sprite.png/revision/latest",
+      "asset": "assets/players/587cb6c0c92e73871c7c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Steve%20Woodmack%20sprite.png",
+      "asset": "assets/players/58e6bf7d56bc013dbb89.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/ce/(Z)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/5964bc560aa777cd9f20.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Fubuki%20Shirou%20sprite.png",
+      "asset": "assets/players/59ed42d7307157cb089d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Aida%20Chikara%20sprite.png",
+      "asset": "assets/players/5a733f04809c2441c781.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/95/(H_(A))_Iya_Mafuru_sprite.png/revision/latest",
+      "asset": "assets/players/5aa58a151ea05cc23598.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Ted%20Bryan%20sprite.png",
+      "asset": "assets/players/5dddb7b1b161aed84c8d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Hiroyama%20Yuu%20sprite.png",
+      "asset": "assets/players/5df5213f4880a103e5b4.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Kitagami%20Soukichi%20sprite.png",
+      "asset": "assets/players/5e12c60113a10654b9c8.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Sakuma%20Jirou%20sprite.png",
+      "asset": "assets/players/5e4680da7b92cf51ffe7.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Yomoyama%20Doushin%20sprite.png",
+      "asset": "assets/players/5e78c5fccac4b8563593.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3c/(IJ)_Gigam_sprite.png/revision/latest",
+      "asset": "assets/players/5e93d0ef01b76c5fcf94.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Oobe%20Shin%20sprite.png",
+      "asset": "assets/players/5ea9370ceb9ede19bbbb.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4c/(TR)_Enimo_sprite.png/revision/latest",
+      "asset": "assets/players/5f26e4a9da983c494b0c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a0/(SIJ)_Yukimura_Hyouga_sprite.png/revision/latest",
+      "asset": "assets/players/5f324f982f097bec74c7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6b/(Z)_Narje_sprite.png/revision/latest",
+      "asset": "assets/players/6047ff702ca03ae3fc34.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/97/(G)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/609ec20474c38df0c80a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4b/(SR)_Nishizono_Shinsuke_sprite.png/revision/latest",
+      "asset": "assets/players/60de789e7b003e621102.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Hakuryuu%20sprite.png",
+      "asset": "assets/players/613b05bdf2e6bb95a26f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4c/(IJ)_Narje_sprite.png/revision/latest",
+      "asset": "assets/players/61486aeab7548a9ddef7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/92/(PO)_Rude_sprite.png/revision/latest",
+      "asset": "assets/players/62333f9a4e7f873e2557.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/ee/(IJ)_Zat_sprite.png/revision/latest",
+      "asset": "assets/players/6299e0a4fcc21d42da2e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e2/(SU)_Domon_Asuka_sprite.png/revision/latest",
+      "asset": "assets/players/6438da176cbd71059fe9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Yukino%20Seiya%20sprite.png",
+      "asset": "assets/players/644cd51d2695d7282206.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/(TR)_Muddle_sprite.png/revision/latest",
+      "asset": "assets/players/647408561330019d058d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/77/(IJ)_Sakuma_Jirou_sprite.png/revision/latest",
+      "asset": "assets/players/660ca81318a350c7c533.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/22/(ILJ)_Kidou_Yuuto_sprite.png/revision/latest",
+      "asset": "assets/players/660cfbc591617b701969.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0e/(Z)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/6655174c97d2396e2f46.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2b/(ILJ)_Fudou_Akio_sprite.png/revision/latest",
+      "asset": "assets/players/672bbff069b068930ce8.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/99/(SR)_Kariya_Masaki_sprite.png/revision/latest",
+      "asset": "assets/players/67b33388f1cf0d9483b5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Sakiyama%20Shuuji%20sprite.png",
+      "asset": "assets/players/68c9ace12b5d672dc238.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fd/(G)_Giris_sprite.png/revision/latest",
+      "asset": "assets/players/694055e6634651e3e50e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Kariya%20Masaki%20sprite.png",
+      "asset": "assets/players/694463b3c92416b108f2.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/28/(SG)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/6a28b36cf4ec88acf5f9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/26/(SR)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/6a94c3674ceaf5a9eb3e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/cc/(Z)_Torm_sprite.png/revision/latest",
+      "asset": "assets/players/6a987823201213f36181.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a9/(PO)_Jips_sprite.png/revision/latest",
+      "asset": "assets/players/6ba0388913b269b028f5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fd/(Z)_Mido_sprite.png/revision/latest",
+      "asset": "assets/players/6c8553a53a24d07b2f54.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/(SR)_Mido_sprite.png/revision/latest",
+      "asset": "assets/players/6cbf37224d275bb6e369.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/ce/(Z)_Enimo_sprite.png/revision/latest",
+      "asset": "assets/players/6d2349901a20d556177c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/da/(Z)_Chel_sprite.png/revision/latest",
+      "asset": "assets/players/6d483cb5103097245833.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2c/(IJ)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/6daa5df3f7aacf29d8a8.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1c/(SG)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/6e3b38ae8f6fb66be263.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/ad/(TR)_Zat_sprite.png/revision/latest",
+      "asset": "assets/players/6f3434d52dc67844ef00.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b7/(ILJ)_Fubuki_Shirou_sprite.png/revision/latest",
+      "asset": "assets/players/6fd471f5c6c7fcc175b5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/ca/(IE)_Hibiki_Seigou_sprite.png/revision/latest",
+      "asset": "assets/players/70276004fd285de37d0d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6d/(IJ)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/706834c7cbfce26bce37.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Gazen%20Norimaru%20sprite.png",
+      "asset": "assets/players/70ad445d6be497e1a1a5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7b/(SR)_Stia_sprite.png/revision/latest",
+      "asset": "assets/players/70e5fcfa7231d3ca237a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3f/(TR)_Narje_sprite.png/revision/latest",
+      "asset": "assets/players/726be287bb2f1e9fe4d0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Nishizono%20Shinsuke%20sprite.png",
+      "asset": "assets/players/72ae4d64f19df4009f2f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a6/(TR)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/72ea7034d7249115df7f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Beta_sprite.png",
+      "asset": "assets/players/732d67396a1109759172.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/25/(Z)_Zatan_sprite.png/revision/latest",
+      "asset": "assets/players/73c0c87a16c191d74582.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Jips%20sprite.png",
+      "asset": "assets/players/740f9e6c4226f545db41.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Nanobana_Kinako_sprite.png",
+      "asset": "assets/players/743fdee6bea4047eff54.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2b/(IJ)_Endou_Mamoru_sprite.png/revision/latest",
+      "asset": "assets/players/74491c8a5ae86e5f6a68.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a8/(TR)_Doris_sprite.png/revision/latest",
+      "asset": "assets/players/74d4bd92c0a125777612.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Teira%20Tamotsu%20sprite.png",
+      "asset": "assets/players/7505e452b73f5109ac56.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0c/(Z)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/752e6c1b479197cf0559.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d8/(ILJ)_Someoka_Ryuugo_sprite.png/revision/latest",
+      "asset": "assets/players/753dcf5435edb048498a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Matoro%20Juka%20sprite.png",
+      "asset": "assets/players/7564168b25d12d0dc2a1.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/36/(SR)_Shindou_Takuto_sprite.png/revision/latest",
+      "asset": "assets/players/759cc8d282d1adeac277.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f6/(Z)_Doris_sprite.png/revision/latest",
+      "asset": "assets/players/75f86afb4d3db420b250.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b5/(IE)_Tamiyama_You_sprite.png/revision/latest",
+      "asset": "assets/players/76043529a55ba1f62bb7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e2/(ILJ)_Tsunami_Jousuke_sprite.png/revision/latest",
+      "asset": "assets/players/77a076d7388492f9c04b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/83/(SR)_Sync_sprite.png/revision/latest",
+      "asset": "assets/players/77a41de9eeec590c9d04.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Alex%20Hawk%20sprite.png",
+      "asset": "assets/players/77daae0a870dfe6608be.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/12/(Z)_Sync_sprite.png/revision/latest",
+      "asset": "assets/players/7854cc2b04311ef44b8a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c3/(IJ-A)_Utsunomiya_Toramaru_sprite.png/revision/latest",
+      "asset": "assets/players/78977dfee10ee56cfadb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c3/(TR)_Gims_sprite.png/revision/latest",
+      "asset": "assets/players/78fbd5f1a61eae4a4f94.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Mark%20Krueger%20sprite.png",
+      "asset": "assets/players/796ac5eb744f57dd83a2.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e2/(MS_(A))_Shimozuru_Arata_sprite.png/revision/latest",
+      "asset": "assets/players/79d5bfa5a1184e6dda4c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Tsurugi%20Kyousuke%20sprite.png",
+      "asset": "assets/players/7a5487d52b6d69e28b39.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/03/(G)_Rude_sprite.png/revision/latest",
+      "asset": "assets/players/7ba9f3eaf97c4344ac7f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/58/(PO)_Boofuu_sprite.png/revision/latest",
+      "asset": "assets/players/7bfb52daec37ad14112a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Shindou_Takuto_sprite.png",
+      "asset": "assets/players/7c264296c41be99675d8.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Tachimukai%20Yuuki%20sprite.png",
+      "asset": "assets/players/7d2735901be4ce400df2.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/71/(SR)_Zake_sprite.png/revision/latest",
+      "asset": "assets/players/7dd1c501c13d446f6332.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d3/(G)_Stia_sprite.png/revision/latest",
+      "asset": "assets/players/7dda0508f47fb139c226.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Zat%20sprite.png",
+      "asset": "assets/players/7e00e28b8824561bc126.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/dc/(SR)_Kurama_Norihito_sprite.png/revision/latest",
+      "asset": "assets/players/7e07d2aacc448106eef9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Shindou%20Takuto%20sprite.png",
+      "asset": "assets/players/7f25a8c6461e7a389b64.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Sugata%20Iwao%20sprite.png",
+      "asset": "assets/players/7f2f9bda8ad9782168af.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9e/(SIJ)_Hakuryuu_sprite.png/revision/latest",
+      "asset": "assets/players/7f421e23ed49e2095985.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Molly%20sprite.png",
+      "asset": "assets/players/7f4ae05fa71f059bc481.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c9/(IJ)_Hijikata_Raiden_sprite.png/revision/latest",
+      "asset": "assets/players/7fdfd4e4da9ad978dd81.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4f/(Z)_Zotan_sprite.png/revision/latest",
+      "asset": "assets/players/8056723a1b167a3fb386.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/83/(IJ)_Mido_sprite.png/revision/latest",
+      "asset": "assets/players/80f3e2a0818f141a7bc5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/ce/(IE)_Batora_Manabu_sprite.png/revision/latest",
+      "asset": "assets/players/81042872e95bfc85f1c5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Kabeyama%20Heigorou%20sprite.png",
+      "asset": "assets/players/81c5326d1f61793148a2.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/00/(IJ)_Zotan_sprite.png/revision/latest",
+      "asset": "assets/players/82c9dfcbf20255c16dfd.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e5/(G)_Gims_sprite.png/revision/latest",
+      "asset": "assets/players/82e39de6351468aadaf5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/be/(IJ-A)_Fudou_Akio_sprite.png/revision/latest",
+      "asset": "assets/players/840362e53e3110ae08a4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/27/(Z)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/84740950ea5da5f5f0bb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Kabeyama%20Heigorou%20sprite.png",
+      "asset": "assets/players/849beeddd08c991541be.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0b/(SIJ)_Nishizono_Shinsuke_sprite.png/revision/latest",
+      "asset": "assets/players/84eb091ff9a417e60829.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Kazemaru%20Ichirouta%20sprite.png",
+      "asset": "assets/players/854f5c7b2a063e9b672e.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/91/(IJ)_Garo_sprite.png/revision/latest",
+      "asset": "assets/players/85eac763b5f826546b25.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/ae/(TR)_Torm_sprite.png/revision/latest",
+      "asset": "assets/players/86060cd34e05a56c2a69.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/98/(Z)_Rodeo_sprite.png/revision/latest",
+      "asset": "assets/players/865bc6d65ba3df0faf25.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9b/(G)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/86e8c190c4bad29f3e53.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Jimon%20Daiki%20sprite.png",
+      "asset": "assets/players/876591dbfb55f3c36512.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/56/(TR)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/88788513cfa2f4b6f6f4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/70/(G)_Garo_sprite.png/revision/latest",
+      "asset": "assets/players/888d9f6e2df9a62e6b2d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4f/(MS_(A))_Inada_Nori_sprite.png/revision/latest",
+      "asset": "assets/players/889a637b1a11f415ab9b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Kutou%20Senji%20sprite.png",
+      "asset": "assets/players/895eb2b8959550ae95a4.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/bf/(Z)_Gims_sprite.png/revision/latest",
+      "asset": "assets/players/89b4097370b086653e9e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/(Z)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/8a088bdd38ebd8a15543.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3d/(PO)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/8a3a623515d681ea941b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Ayabe%20Houkurou%20sprite.png",
+      "asset": "assets/players/8a9accf2ca6c12d9453a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/78/(H_(A))_Sorano_Rebun_sprite.png/revision/latest",
+      "asset": "assets/players/8aad3fb188218c71d5a6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b6/(PO)_Enimo_sprite.png/revision/latest",
+      "asset": "assets/players/8b2899d9e4aaa63df2fe.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Matsuno%20Kuusuke%20sprite.png",
+      "asset": "assets/players/8c734a5b37119220b616.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7e/(G)_Zatan_sprite.png/revision/latest",
+      "asset": "assets/players/8dbd5e7281e73de56d8a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Ashiguro%20Houichirou%20sprite.png",
+      "asset": "assets/players/8e1523547a7855605073.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/08/(H_(A))_Araya_Konko_sprite.png/revision/latest",
+      "asset": "assets/players/8e30a6b66a7fa409c46c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a7/(G)_Fadam_sprite.png/revision/latest",
+      "asset": "assets/players/8e66db06d9e2c4d1f999.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/ad/(PO)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/8e7e17c206142bd67812.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Rude%20sprite.png",
+      "asset": "assets/players/8ee5e9274f6866638bbd.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/70/(IJ)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/8f02fdbfc5a4e93f30e9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9a/(PO)_Inaba_Taian_sprite.png/revision/latest",
+      "asset": "assets/players/8f073d96eeb6b3972e36.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f0/(IJ)_Gims_sprite.png/revision/latest",
+      "asset": "assets/players/8f380f9b1d86bff59666.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Iya%20Mafuru%20sprite.png",
+      "asset": "assets/players/8f62c4b1e9533f718276.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/73/(SR)_Chel_sprite.png/revision/latest",
+      "asset": "assets/players/8feaaa2d912376eb658f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/ed/(SR)_Rodeo_sprite.png/revision/latest",
+      "asset": "assets/players/90fab55fae3c8552701a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8b/(TR)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/913a25cfbc193dd7c2bf.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/43/(TR)_Zake_sprite.png/revision/latest",
+      "asset": "assets/players/91a9ac325edc89f02130.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d8/(PO)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/91f5365712826c4d8b1a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Inada%20Nori%20sprite.png",
+      "asset": "assets/players/9291ea836c1c23e448a3.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Kidou%20Yuuto%20sprite.png",
+      "asset": "assets/players/92a88e3ba88b4279b387.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/54/(PO)_Torm_sprite.png/revision/latest",
+      "asset": "assets/players/92c15273572b2ada5963.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9d/(SR)_Zatan_sprite.png/revision/latest",
+      "asset": "assets/players/943ff6c9d060888820c0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Michele%20Jacks%20sprite.png",
+      "asset": "assets/players/951641aadd30950506f6.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6e/(SR)_Narje_sprite.png/revision/latest",
+      "asset": "assets/players/95e3f31e7ac94231c0bc.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/24/(SR)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/9738e76ef9913701cc4b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a5/(TR)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/97587170df3d63de7b7d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/53/(IJ)_Fubuki_Shirou_sprite.png/revision/latest",
+      "asset": "assets/players/983515d30ca4ef686350.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/73/(Z)_Rude_sprite.png/revision/latest",
+      "asset": "assets/players/987f2d5f252fcde89e7b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Sakuma%20Jirou%20sprite.png",
+      "asset": "assets/players/991ea83060e9ca273d10.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Tsunami%20Jousuke%20sprite.png",
+      "asset": "assets/players/99af0049e10571679b3f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/72/(SU)_Dyke_Dynamo_sprite.png/revision/latest",
+      "asset": "assets/players/99f293e71ea4a07c379c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/90/(Z)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/9a0708dcc9599a6c024c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/52/(H_(A))_Oshiya_Manbe_sprite.png/revision/latest",
+      "asset": "assets/players/9a9e3af4a504af32bf4a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Mabi%20sprite.png",
+      "asset": "assets/players/9b467be035ff38e4623c.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0e/(G)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/9ba8bfec3edfcb20e153.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/08/(SG)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/9bbf24dfa0a188dbda43.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Fujimaru%20Kei%20sprite.png",
+      "asset": "assets/players/9bfdfdae3bc474ece42c.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7c/(SR)_Gigam_sprite.png/revision/latest",
+      "asset": "assets/players/9c083ed005a17b65a8eb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/92/(G)_Muddle_sprite.png/revision/latest",
+      "asset": "assets/players/9c0b13ae041f43304c60.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fb/(TR)_Garo_sprite.png/revision/latest",
+      "asset": "assets/players/9ced51133dffb3d36b7c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/80/(SR)_Maebayashi_Kourin_sprite.png/revision/latest",
+      "asset": "assets/players/9d5cfd36ea536f2b10cd.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Domon%20Asuka%20sprite.png",
+      "asset": "assets/players/9dc1b09acfad919b947f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/43/(SG)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/9e1f97f1fb15ec983da4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Utsunomiya%20Toramaru%20sprite.png",
+      "asset": "assets/players/9e2861503de641558140.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Hanaoka%20Tsuyoshi%20sprite.png",
+      "asset": "assets/players/9e3693db1dc6094c7888.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Someoka%20Ryuugo%20sprite.png",
+      "asset": "assets/players/9e9bdddecf1b29749d48.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/19/(IJ)_Molly_sprite.png/revision/latest",
+      "asset": "assets/players/9f50f64a77c60a53aa50.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Zanark_Avalonic_sprite.png",
+      "asset": "assets/players/9fbcd3e05e7cb4b586cc.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Meia%20sprite.png",
+      "asset": "assets/players/a02c21a75452adf3e4e0.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Biruda%20Kouichi%20sprite.png",
+      "asset": "assets/players/a04613c2d591998aefae.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d3/(G)_Deleine_sprite.png/revision/latest",
+      "asset": "assets/players/a0ca10fcb68c9beb496e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Dyke%20Dynamo%20sprite.png",
+      "asset": "assets/players/a14e52328d11caca9c89.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/66/(TR)_Kutou_Senji_sprite.png/revision/latest",
+      "asset": "assets/players/a155808a20b8a29a05de.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/18/(PO)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/a1b115bde6e6429f7fe6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Kira%20Hiroto%20sprite.png",
+      "asset": "assets/players/a20ccbc6b0a039a1e98b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Kageyama%20Hikaru%20sprite.png",
+      "asset": "assets/players/a2c3c44d4d5da97d30b6.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/70/(TR)_Clutch_sprite.png/revision/latest",
+      "asset": "assets/players/a2e9cf235dabbb0921a8.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/14/(PO)_Gims_sprite.png/revision/latest",
+      "asset": "assets/players/a32cae779eeaac260c31.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0d/(IJ)_Boofuu_sprite.png/revision/latest",
+      "asset": "assets/players/a38dac68c8388cba7118.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a8/(Z)_Muddle_sprite.png/revision/latest",
+      "asset": "assets/players/a4249914e24b7381b8e1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6a/(SR)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/a464b9c95b39e127466f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f4/(TR)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/a47b784ac5da8ed08be2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/98/(SIJ)_Kirino_Ranmaru_sprite.png/revision/latest",
+      "asset": "assets/players/a6281efc64142e8516d7.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fe/(Z)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/a66c89aa52d2249b4802.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/bd/(IJ)_Enimo_sprite.png/revision/latest",
+      "asset": "assets/players/a7bd89ecb89470e00dd3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Mista%20sprite.png",
+      "asset": "assets/players/a8ffbb0843127745321d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Sangoku_Taichi_sprite.png",
+      "asset": "assets/players/a955343acdd46fa46483.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/27/(IJ-A)_Kazemaru_Ichirouta_sprite.png/revision/latest",
+      "asset": "assets/players/a99efad1c22e0dfbffbc.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a6/(TR)_Deleine_sprite.png/revision/latest",
+      "asset": "assets/players/aa404fab7992f7c720b6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Nanobana%20Kinako%20sprite.png",
+      "asset": "assets/players/aa653afbb2ff24915989.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/08/(Z)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/aac9fa92e0471d122f03.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Nishiki%20Ryouma%20sprite.png",
+      "asset": "assets/players/ab21bea5f950f5ceeb30.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/61/(PO)_Veneto_sprite.png/revision/latest",
+      "asset": "assets/players/ab23e31d8ce71f17327a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4b/(SR)_Kunikida_Haito_sprite.png/revision/latest",
+      "asset": "assets/players/ab653deefeb3cf51bfae.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8b/(IJ-A)_Kidou_Yuuto_sprite.png/revision/latest",
+      "asset": "assets/players/abd933cd97fe5b0cbb2b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/73/(TR)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/abf3687db64ba037f198.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Lugic_sprite.png",
+      "asset": "assets/players/acba67ae93b5d62851e0.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/27/(SIJ)_Shindou_Takuto_sprite.png/revision/latest",
+      "asset": "assets/players/ad5536b93401b1060db3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Zake%20sprite.png",
+      "asset": "assets/players/ae98f1e3de3517ffb62b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Matsukaze%20Tenma%20sprite.png",
+      "asset": "assets/players/af1ca19a8c155767cf7a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SR)%20Nishiki%20Ryouma%20sprite.png",
+      "asset": "assets/players/af21afa0476f4259d36d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/db/(Z)_Haze_sprite.png/revision/latest",
+      "asset": "assets/players/af57568bd1482d042138.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3d/(TR)_Fadam_sprite.png/revision/latest",
+      "asset": "assets/players/af5b5ae090aac21656d0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Kanou%20Ikkatsu%20sprite.png",
+      "asset": "assets/players/af7e50d3dcb9923fb51c.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f2/(PO)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/aff8d45bf3f605d557c0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Fudou%20Akio%20sprite.png",
+      "asset": "assets/players/b02f6fc9a54474241e94.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/de/(SU)_Sammy_Dempsey_sprite.png/revision/latest",
+      "asset": "assets/players/b07ff3021e15fa5ff025.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/48/(IJ)_Veneto_sprite.png/revision/latest",
+      "asset": "assets/players/b1e5cf34aef30c858c55.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/68/(IJ)_Rodeo_sprite.png/revision/latest",
+      "asset": "assets/players/b1ed2671cc838f098021.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/04/(Z)_Mabi_sprite.png/revision/latest",
+      "asset": "assets/players/b1f246f3afe639e4030c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Hakoda%20Tetsu%20sprite.png",
+      "asset": "assets/players/b39be27f54a75493dce6.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6e/(PO)_Stia_sprite.png/revision/latest",
+      "asset": "assets/players/b41cffd09e90292c4023.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/(TR)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/b44cd8e035581fd830f1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e7/(TR)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/b47bde00bf3d4f3e6e7f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Mabuka%20Souji%20sprite.png",
+      "asset": "assets/players/b4dbb85dd6e7fe753e9d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Garo%20sprite.png",
+      "asset": "assets/players/b4fbdf6fc55716aa6837.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Gamma_sprite.png",
+      "asset": "assets/players/b51310349f3ac038482f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0b/(SG)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/b539e5b6be4b6edb0195.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Ukishima%20Kazuto%20sprite.png",
+      "asset": "assets/players/b5611de96af66909d102.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8a/(G)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/b60cc67c61be6cf0293d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Araya%20Konko%20sprite.png",
+      "asset": "assets/players/b6c8f266014467f5f0e4.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b0/(TR)_Zotan_sprite.png/revision/latest",
+      "asset": "assets/players/b6d256cd111b9a6491d0.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7c/(Z)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/b71cd48c02bda8be1ceb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/06/(IE)_Biruda_Kouichi_sprite.png/revision/latest",
+      "asset": "assets/players/b84a1cdb026950707add.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/93/(G)_Meia_sprite.png/revision/latest",
+      "asset": "assets/players/b8753dc09d45196c99b5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/(SU)_Sean_Pierce_sprite.png/revision/latest",
+      "asset": "assets/players/b8df7330e3fb56852b45.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5c/(PO)_Doris_sprite.png/revision/latest",
+      "asset": "assets/players/b93ab94a73bc149c23e5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/77/(IE)_Nakama_You_sprite.png/revision/latest",
+      "asset": "assets/players/b9c8bcb73c5db3122158.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/be/(IJ)_Rude_sprite.png/revision/latest",
+      "asset": "assets/players/b9e1c0dc9569b80eb023.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Zanark%20Avalonic%20sprite.png",
+      "asset": "assets/players/baa3f8e34d6be5bc5292.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/70/(IJ)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/bafb676d419e7ac4824e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/(TR)_Gigam_sprite.png/revision/latest",
+      "asset": "assets/players/bb1f1b3a0b998d88e910.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/30/(PO)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/bb90860234a7dae8bf68.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3d/(Z)_Zat_sprite.png/revision/latest",
+      "asset": "assets/players/bba91240fcef4face8da.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/54/(SU)_Michele_Jacks_sprite.png/revision/latest",
+      "asset": "assets/players/bbb82d3b1d42a8f91fd6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Deos%20sprite.png",
+      "asset": "assets/players/bc6c08923c31cc82d8ca.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Doris%20sprite.png",
+      "asset": "assets/players/bd26d329932007fc59bd.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d4/(IJ)_Ashiguro_Houichirou_sprite.png/revision/latest",
+      "asset": "assets/players/be0ea31d31c71a6bb7cc.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d1/(TG_(A))_Fudou_Akio_sprite.png/revision/latest",
+      "asset": "assets/players/be5764c151c9dcbd155b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/84/(IJ)_Haze_sprite.png/revision/latest",
+      "asset": "assets/players/bfd684a9db78ec2d4ea6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/96/(SR)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/bfdbf106ad0c1a6f171b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/ac/(PO)_Muddle_sprite.png/revision/latest",
+      "asset": "assets/players/c014a2aa96cf40b0a0de.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Sean%20Pierce%20sprite.png",
+      "asset": "assets/players/c0dfbd74ccb290cfe15b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c1/(SR)_Matsukaze_Tenma_sprite.png/revision/latest",
+      "asset": "assets/players/c146936caf30b40bd579.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/98/(Z)_Veneto_sprite.png/revision/latest",
+      "asset": "assets/players/c1add3ad98816c9e594c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1c/(ILJ)_Kazemaru_Ichirouta_sprite.png/revision/latest",
+      "asset": "assets/players/c4052261a5f9a1374dc3.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fc/(PO)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/c48d0c5da9b3931cdb82.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Kogure%20Yuuya%20sprite.png",
+      "asset": "assets/players/c5469da29843676cafb5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Orca_sprite.png",
+      "asset": "assets/players/c57b9ae02f9477f43a6a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a8/(G)_Zotan_sprite.png/revision/latest",
+      "asset": "assets/players/c59518f0c884edd68888.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Kurimatsu%20Teppei%20sprite.png",
+      "asset": "assets/players/c5b69ed4a7a0fb232bbc.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Hayama%20Kaburou%20sprite.png",
+      "asset": "assets/players/c5c7ea0bd7edb631d798.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Endou%20Mamoru%20sprite.png",
+      "asset": "assets/players/c7298c970f6b97221622.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9b/(SR)_Yomoyama_Doushin_sprite.png/revision/latest",
+      "asset": "assets/players/c83b108c38dedc7a1741.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Tamiyama%20You%20sprite.png",
+      "asset": "assets/players/c91fe44232857b4829d5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/95/(IJ)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/c93b8bca9084fbfb86d1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/26/(Z)_Deleine_sprite.png/revision/latest",
+      "asset": "assets/players/c9e8123bd16bea5ef12c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/ff/(SR)_Deos_sprite.png/revision/latest",
+      "asset": "assets/players/c9f12ae6178c6ed6e219.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Gouenji%20Shuuya%20sprite.png",
+      "asset": "assets/players/ca2d71166951045d963f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Giris%20sprite.png",
+      "asset": "assets/players/ca3868599592675e594a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Henmi%20Wataru%20sprite.png",
+      "asset": "assets/players/ca81420591bf6abe9dfd.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5b/(TG_(A))_Doumen_Shuuichirou_sprite.png/revision/latest",
+      "asset": "assets/players/cb11e55c8e01ddf9cf42.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Alpha_sprite.png",
+      "asset": "assets/players/cbda755640b0756b7e70.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/92/(G)_Doris_sprite.png/revision/latest",
+      "asset": "assets/players/cbf74f3b72a10e87ed62.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Sammy%20Dempsey%20sprite.png",
+      "asset": "assets/players/cc4a35f5fe8b171af427.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5b/(TG_(A))_Narukami_Kenya_sprite.png/revision/latest",
+      "asset": "assets/players/ccb409c023bcef376621.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/(SR)_Mabi_sprite.png/revision/latest",
+      "asset": "assets/players/ccee7245c2e122517c59.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a5/(SR)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/cd4883d1dff0397d27e9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Nishizono%20Shinsuke%20sprite.png",
+      "asset": "assets/players/ce4b2adba15687e14666.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/19/(Z)_Garo_sprite.png/revision/latest",
+      "asset": "assets/players/cf6b8e8a2a42ae04be8c.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/64/(IE)_Teira_Tamotsu_sprite.png/revision/latest",
+      "asset": "assets/players/cfbf8a456f9cbf298496.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Shindou%20Takuto%20sprite.png",
+      "asset": "assets/players/d0ac13425ed9beb85c01.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e4/(SR)_Gims_sprite.png/revision/latest",
+      "asset": "assets/players/d0f47dbf2e201603fd7a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6a/(TR)_Haze_sprite.png/revision/latest",
+      "asset": "assets/players/d154668c785eebbbd3ec.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Mido%20sprite.png",
+      "asset": "assets/players/d18695fbab014c272b6d.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/55/(TR)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/d1b6d444b5634d135b55.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/03/(SIJ)_Matsukaze_Tenma_sprite.png/revision/latest",
+      "asset": "assets/players/d247cbeafde5e98f5b2e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/69/(ILJ)_Kabeyama_Heigorou_sprite.png/revision/latest",
+      "asset": "assets/players/d29f876495e139a45ced.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Santetsu%20Ginji%20sprite.png",
+      "asset": "assets/players/d2b206695f8bebb89dfb.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/34/(TR)_Boofuu_sprite.png/revision/latest",
+      "asset": "assets/players/d35035e1b3ca265e836d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1c/(PO)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/d39d8ec26ed063bc8dcd.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Einam_sprite.png",
+      "asset": "assets/players/d468fac5b678e432f325.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e1/(TR)_Deos_sprite.png/revision/latest",
+      "asset": "assets/players/d4d8ed41c426f2d0200a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fa/(PO)_Fadam_sprite.png/revision/latest",
+      "asset": "assets/players/d4fd4a6c75383e5c00e5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d3/(IJ)_Stia_sprite.png/revision/latest",
+      "asset": "assets/players/d5586c026a9b3a1ec110.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/bd/(G)_Torm_sprite.png/revision/latest",
+      "asset": "assets/players/d5b9340310c2e5545221.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/09/(G)_Rodeo_sprite.png/revision/latest",
+      "asset": "assets/players/d62b254d6405a0fc775e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/d9/(G)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/d65ab1d99706f8544db4.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8c/(TR)_Rude_sprite.png/revision/latest",
+      "asset": "assets/players/d769ae2b1bac3ccc2e36.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/7a/(IJ)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/d86d14cc78d80906cbe1.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2b/(SG)_Santetsu_Ginji_sprite.png/revision/latest",
+      "asset": "assets/players/d8ada61adc598c7060d2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/d/db/(G)_Ochimura_Denrai_sprite.png/revision/latest",
+      "asset": "assets/players/da333f163ab5a8614656.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/81/(SR)_Mista_sprite.png/revision/latest",
+      "asset": "assets/players/da6d91ab9b77df82ec4a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/51/(SR)_Torm_sprite.png/revision/latest",
+      "asset": "assets/players/dad6c8cc48ab867f2f41.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Torm%20sprite.png",
+      "asset": "assets/players/dafdd3f7e37b1296e94c.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3e/(G)_Mido_sprite.png/revision/latest",
+      "asset": "assets/players/dc5558c03d070796a9a9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(MS%20(A))%20Shimozuru%20Arata%20sprite.png",
+      "asset": "assets/players/dc721220ded09a6c4d14.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Chel%20sprite.png",
+      "asset": "assets/players/dcb085001034e63605f2.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1f/(PO)_Zake_sprite.png/revision/latest",
+      "asset": "assets/players/dcce8c1e45f9682cb96d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/95/(IE)_Aida_Chikara_sprite.png/revision/latest",
+      "asset": "assets/players/df0988ed3b02e436b285.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f0/(TR)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/dfc279b5fc88d4921bbb.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/ea/(TR)_Kanou_Ikkatsu_sprite.png/revision/latest",
+      "asset": "assets/players/dfed5bfa43aab7ca286f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/72/(G)_Deos_sprite.png/revision/latest",
+      "asset": "assets/players/e0b55e5658d9b1785a25.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6d/(IJ)_Doris_sprite.png/revision/latest",
+      "asset": "assets/players/e0fa2b14a11afdb8e362.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e0/(IJ)_Ayabe_Houkurou_sprite.png/revision/latest",
+      "asset": "assets/players/e13cca59435e84c265e6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a2/(MS_(A))_Oobe_Shin_sprite.png/revision/latest",
+      "asset": "assets/players/e141feb6cd10535b423f.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2b/(TG_(A))_Kazemaru_Ichirouta_sprite.png/revision/latest",
+      "asset": "assets/players/e1793d5d056897640bf2.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Asama%20Denbei%20sprite.png",
+      "asset": "assets/players/e254fefdf098abbeb0a8.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(PO)_Kurama_Norihito_sprite.png",
+      "asset": "assets/players/e2e5e9204acf55bee09f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3f/(SU)_Ted_Bryan_sprite.png/revision/latest",
+      "asset": "assets/players/e325b156fb8894e96101.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/fb/(G)_Boofuu_sprite.png/revision/latest",
+      "asset": "assets/players/e364e3e8e102d95c702b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/08/(Z)_Stia_sprite.png/revision/latest",
+      "asset": "assets/players/e439ee18ca81dcc25255.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Endou%20Mamoru%20sprite.png",
+      "asset": "assets/players/e4bf766037a52ce64b6f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Ochimura%20Denrai%20sprite.png",
+      "asset": "assets/players/e57ed29a31f05f02572b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(ILJ)%20Someoka%20Ryuugo%20sprite.png",
+      "asset": "assets/players/e5f82fc3f9c243a18e36.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Gims%20sprite.png",
+      "asset": "assets/players/e65e1247491a0c9569d6.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Nakama%20You%20sprite.png",
+      "asset": "assets/players/e65e6e086e0bdbff6a93.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/64/(SG)_Hayama_Kaburou_sprite.png/revision/latest",
+      "asset": "assets/players/e6ef249be2456eb08274.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Stia%20sprite.png",
+      "asset": "assets/players/e7358327911299e204b5.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SG)%20Yabe%20Hanbee%20sprite.png",
+      "asset": "assets/players/e7d424136fbe13251ac3.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/ea/(PO)_Zatan_sprite.png/revision/latest",
+      "asset": "assets/players/e84e41d6bba37572fc28.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IE)%20Hibiki%20Seigou%20sprite.png",
+      "asset": "assets/players/e934ce51d431e3fb004f.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b0/(SR)_Deleine_sprite.png/revision/latest",
+      "asset": "assets/players/e9d6b806047486f2889e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f1/(SG)_Ujiki_Mikimaru_sprite.png/revision/latest",
+      "asset": "assets/players/e9fb253b3945ddd6076d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0b/(TG_(A))_Sakuma_Jirou_sprite.png/revision/latest",
+      "asset": "assets/players/eadbc815806650c72d6a.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0d/(PO)_Deos_sprite.png/revision/latest",
+      "asset": "assets/players/ec027f16f185c0f60904.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/ff/(Z)_Boofuu_sprite.png/revision/latest",
+      "asset": "assets/players/ec383a8a673e58d59adc.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0b/(SG)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/ec6c7ab828e54904a9ed.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SIJ)%20Tsurugi%20Kyousuke%20sprite.png",
+      "asset": "assets/players/ecba867f89b49a638bf9.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Aoyama_Shunsuke_sprite.png",
+      "asset": "assets/players/ee4c9211c834702f4a8a.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3e/(TG_(A))_Sakiyama_Shuuji_sprite.png/revision/latest",
+      "asset": "assets/players/ee7709d6f7d732c2f439.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/(SR)_Haze_sprite.png/revision/latest",
+      "asset": "assets/players/ee8e26f7b66164dcf459.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f8/(SR)_Gazen_Norimaru_sprite.png/revision/latest",
+      "asset": "assets/players/eef43b5de685fbf6d294.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a7/(MS_(A))_Yamagishi_Seri_sprite.png/revision/latest",
+      "asset": "assets/players/ef10e42ef5474eb90bef.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3f/(PO)_Gigam_sprite.png/revision/latest",
+      "asset": "assets/players/efac4b2e7a3d64278861.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TG%20(A))%20Banjou%20Kazumichi%20sprite.png",
+      "asset": "assets/players/f0816d589db8712ffe86.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2e/(SR)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/f128b80757b44e4dd8b6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/3/3a/(Z)_Zanark_Avalonic_sprite.png/revision/latest",
+      "asset": "assets/players/f17edf2fb6e3d460499b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4a/(SR)_Kitagami_Soukichi_sprite.png/revision/latest",
+      "asset": "assets/players/f1c29d62d20b4d366fde.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ-A)%20Fudou%20Akio%20sprite.png",
+      "asset": "assets/players/f24131cd13aacf58449e.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/12/(PO)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/f2b0b7fd60cbcd086619.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/2/2b/(SR)_Jips_sprite.png/revision/latest",
+      "asset": "assets/players/f3e1767059ad35d2a6ed.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/80/(Z)_Jips_sprite.png/revision/latest",
+      "asset": "assets/players/f45eccab4b798dbd5309.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/73/(G)_Zake_sprite.png/revision/latest",
+      "asset": "assets/players/f5062e4026fd653fbb4b.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c2/(TG_(A))_Gojou_Masaru_sprite.png/revision/latest",
+      "asset": "assets/players/f524bee7f697b8a21a2d.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/7/79/(G)_Haze_sprite.png/revision/latest",
+      "asset": "assets/players/f57a2a3a144f3ddb51c6.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Ward_sprite.png",
+      "asset": "assets/players/f7a7371717634901d252.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Fei_Rune_sprite.png",
+      "asset": "assets/players/f82ca84786feec98ed5b.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6d/(TR)_Veneto_sprite.png/revision/latest",
+      "asset": "assets/players/f85cedd7c6c070623d86.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(H%20(A))%20Sorano%20Rebun%20sprite.png",
+      "asset": "assets/players/f8b186c7fe7adfb37879.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Zotan%20sprite.png",
+      "asset": "assets/players/f8fffc65e48115439a3e.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/83/(SG)_Yabe_Hanbee_sprite.png/revision/latest",
+      "asset": "assets/players/fa9fd66e42568f149daf.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6f/(SU)_Alex_Hawk_sprite.png/revision/latest",
+      "asset": "assets/players/fb721ac1f0cf454abdbf.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(IJ)%20Fubuki%20Shirou%20sprite.png",
+      "asset": "assets/players/fc0633452c59daf62848.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Fadam%20sprite.png",
+      "asset": "assets/players/fc2bb9aa915d2106001c.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(SU)%20Ichinose%20Kazuya%20sprite.png",
+      "asset": "assets/players/fc4bff4f177b7e5a49e6.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/68/(G)_Yazu_Tenkei_sprite.png/revision/latest",
+      "asset": "assets/players/fca8127390231ed0bc0e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(Z)%20Haze%20sprite.png",
+      "asset": "assets/players/fcc673c2a15a3492bbd8.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/88/(ILJ)_Endou_Mamoru_sprite.png/revision/latest",
+      "asset": "assets/players/fcd9535936b58e5a1b31.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/8f/(IJ)_Asama_Denbei_sprite.png/revision/latest",
+      "asset": "assets/players/fd0452886a1b37898094.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/c/c8/(SIJ)_Kariya_Masaki_sprite.png/revision/latest",
+      "asset": "assets/players/fd098a7a355c1afdec6e.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/12/(TR)_Mido_sprite.png/revision/latest",
+      "asset": "assets/players/fd2e2c8747ffaefcf7f9.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/1/14/(ILJ)_Gouenji_Shuuya_sprite.png/revision/latest",
+      "asset": "assets/players/fd7e66dd1e5be7576bde.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/inazuma-eleven/images/6/6c/(Z)_Fadam_sprite.png/revision/latest",
+      "asset": "assets/players/ff18c46c8af7432a50b5.webp",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(G)%20Deleine%20sprite.png",
+      "asset": "assets/players/ff1d8806f126eef73339.webp",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://inazuma-eleven.fandom.com/wiki/Special:FilePath/(TR-A)_Nishiki_Ryouma_sprite.png",
+      "asset": "assets/players/ff90ea29bb7c00a57dfc.webp",
+      "reason": "HTTP 403"
+    }
+  ]
+}
